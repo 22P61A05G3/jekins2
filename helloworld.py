@@ -1,4 +1,4 @@
-print(5+5)
-print("my name is harshini")
-print("212345")
-print("scm")
+a=10
+b=20
+c=a+b
+print('sum=',c)
